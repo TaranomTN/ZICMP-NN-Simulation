@@ -8,7 +8,7 @@ Models compared:
 - Poisson Regression
 - Negative Binomial
 - Zero-Inflated Poisson (ZIP)
-- **ZICMP (Zero-Inflated Compound Poisson) — Our Proposed Model**
+- **ZICMP (Zero-Inflated Comp-Poisson)**
 
 ---
 
@@ -28,7 +28,7 @@ Models compared:
 
 | Model                    | MSE     |
 |--------------------------|---------|
-| ZICMP                    | 24.15   |
+| **ZICMP**               | **24.15**   |
 | Zero-Inflated Poisson    | 25.65   |
 | Poisson                  | 25.87   |
 | Negative Binomial        | 26.62   |
