@@ -12,9 +12,9 @@ Models compared:
 
 ---
 
-### 📊 Model Comparison Based on AIC and Log-Likelihood (NL)
+### 📊 Model Comparison Based on AIC and Log-Likelihood (NLL)
 
-| Model                    | AIC      | NL       |
+| Model                    | AIC      | NLL       |
 |--------------------------|----------|----------|
 | Poisson                  | 6554.22   | -3273.11  |
 | Negative Binomial        | 3464.03   | -1727.01  |
