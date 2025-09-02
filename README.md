@@ -21,7 +21,6 @@ Models compared:
 | Zero-Inflated Poisson    | 3361.98   | -1675.99  |
 | **ZICMP**         | **5837.88** | **-483.94** |
 
-> ✅ **ZICMP** achieves the lowest AIC and highest log-likelihood (NL), indicating superior model fit.
 
 ---
 
@@ -62,3 +61,7 @@ Install dependencies:
 ```bash
 pip install pandas numpy scikit-learn torch statsmodels
 ```
+
+## 📬 Contact
+
+Created by [Taranom Torabi](mailto:taranom.torabi1377@gmail.com) — feel free to reach out with any questions or feedback!
